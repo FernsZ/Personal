@@ -1,0 +1,10 @@
+S:\Programming\Personal\testMultiForm\testMultiForm\bin\Debug\testMultiForm.exe.config
+S:\Programming\Personal\testMultiForm\testMultiForm\bin\Debug\testMultiForm.exe
+S:\Programming\Personal\testMultiForm\testMultiForm\bin\Debug\testMultiForm.pdb
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.Form1.resources
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.Form2.resources
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.Properties.Resources.resources
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.csproj.GenerateResource.Cache
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.csproj.CoreCompileInputs.cache
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.exe
+S:\Programming\Personal\testMultiForm\testMultiForm\obj\Debug\testMultiForm.pdb

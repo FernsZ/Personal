@@ -1,0 +1,10 @@
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\bin\Debug\ruinSpooksBeta.exe.config
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\bin\Debug\ruinSpooksBeta.exe
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\bin\Debug\ruinSpooksBeta.pdb
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.csprojResolveAssemblyReference.cache
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.Form1.resources
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.Properties.Resources.resources
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.csproj.GenerateResource.Cache
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.csproj.CoreCompileInputs.cache
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.exe
+C:\Users\000000749\source\repos\ruinSpooksBeta\ruinSpooksBeta\obj\Debug\ruinSpooksBeta.pdb
